@@ -1,4 +1,4 @@
-ngage2Value Project Summary 
+Engage2Value Project Summary 
 
 The Engage2Value project develops a two-step machine learning approach to predict customer purchase value using transaction and customer-level features. The workflow begins with loading and inspecting the training and test datasets, followed by cleaning and preprocessing. Redundant and non-informative columns—such as constant-value and high-null features—are removed to reduce noise. High-cardinality categorical variables are dropped to avoid excessive dimensionality.
 
